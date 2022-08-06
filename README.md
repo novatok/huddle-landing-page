@@ -13,7 +13,6 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -30,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/novatok/huddle-landing-page.git)
-- Live Site URL: [Add live site URL here](https://novatok.github.io/huddle-landing-page/)
+- Solution URL: [https://github.com/novatok/huddle-landing-page.git](https://github.com/novatok/huddle-landing-page.git)
+- Live Site URL: [https://novatok.github.io/huddle-landing-page/](https://novatok.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -50,5 +49,5 @@ For future projects will focus more on CSS grid
 
 ## Author
 
-- Website - [Kam](https://www.your-site.com)
+- Website - [Kam](#)
 - Frontend Mentor - [@novatok](https://www.frontendmentor.io/profile/novatok)
