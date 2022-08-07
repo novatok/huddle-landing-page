@@ -49,5 +49,5 @@ For future projects will focus more on CSS grid
 
 ## Author
 
-- Website - [Kam](#)
+-  [Kam](#)
 - Frontend Mentor - [@novatok](https://www.frontendmentor.io/profile/novatok)
